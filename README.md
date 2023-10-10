@@ -2,7 +2,7 @@
 
 ## Live Website
 
-- [Link](https://harsh-sangwan2003.github.io/Camera-Gallery-App/)
+- [Link](https://harsh-sangwan2003.github.io/relaxer-app/)
 
 A quick guide to my Project ->
 
