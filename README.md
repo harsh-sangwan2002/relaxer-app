@@ -1,5 +1,13 @@
 ## Relaxer App
 
+## Live Website
+
+- [Link](https://harsh-sangwan2003.github.io/Camera-Gallery-App/)
+
+A quick guide to my Project ->
+
+<img src ="/image.webp">
+
 A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out
 
 ## Project Specifications
